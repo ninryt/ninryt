@@ -5,7 +5,7 @@ I am passionate about combining data analysis using SQL, Python and analytical t
 
 - 🌱 I’m currently developing an AI-powered web-scraping model to automate data extraction and analysis
 - ✨ I recently designed and developed a comprehensive SQL database and program that automatically scrapes personalized, most suitable job offers on the market, check it out [here](https://github.com/ninryt/python-sql-web_jobscraper)
-- 👯 I’m looking to collaborate on exciting SQL Python and UX Research projects to build innovative solutions...
+- 👯 I’m looking to collaborate on exciting SQL, Python or UX Research projects to build innovative solutions...
 
 [![Contact Me](https://github.com/user-attachments/assets/4cd95980-a6f4-4935-aee1-122a93b39247)](mailto:zerobughero@gmail.com)
 
