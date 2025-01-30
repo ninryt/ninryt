@@ -4,8 +4,12 @@ My name is Nina B., and I am a trained Data Scientist and Researcher from the Un
 I am passionate about combining data analysis using SQL, Python and analytical tools with User Research to leverage digital and non-digital products.
 
 - 🌱 I’m currently developing an AI-powered web-scraping model to automate data extraction and analysis
-- ✨ I recently designed and developed a comprehensive SQL database and program that automatically scrapes personalized, most suitable job offers on the market, check it out [here](https://github.com/ninryt/python-sql-web_jobscraper)
-- 👯 I’m looking to collaborate on exciting SQL, Python or UX Research projects to build innovative solutions...
+- ✨ I recently designed and developed:
+  - a comprehensive SQL database and program that automatically scrapes personalized, most suitable job offers on the market, check it out [here](https://github.com/ninryt/python-sql-web_jobscraper)
+  - a Python project automates the process of sending personalized emails to customers using Gmail and an Excel, check it out [here](https://github.com/ninryt/automated-email-sender).
+- I am committed to continuous growth — check out my latest professional recertification [here](./recertification.md).
+- 👯 I’m looking to collaborate on exciting SQL, Python or UX Research projects to build innovative solutions.
+
 
 [![Contact Me](https://github.com/user-attachments/assets/4cd95980-a6f4-4935-aee1-122a93b39247)](mailto:zerobughero@gmail.com)
 
