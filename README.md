@@ -9,7 +9,7 @@ I am passionate about combining data analysis using SQL, Python and analytical t
 
 [![Contact Me](https://github.com/user-attachments/assets/4cd95980-a6f4-4935-aee1-122a93b39247)](mailto:zerobughero@gmail.com)
 
-
+---
 
 ![drive sql video (1)](https://github.com/user-attachments/assets/4b950894-6614-446f-bcca-703cffe53c77)
 <!--
