@@ -10,7 +10,7 @@ I am passionate about combining data analysis using SQL, Python and analytical t
 - 🔸 I am committed to continuous growth — check out my latest professional recertification [here](./recertification.md).
 - 🔸 I’m looking to collaborate on exciting SQL, Python or UX Research projects to build innovative solutions.
 
-[![Contact Me Badge](https://img.shields.io/badge/Contact%20Me-FFD700?style=for-the-badge)](mailto:zerobughero@gmail.com)
+[![Contact Me Badge](https://img.shields.io/badge/Contact%20Me-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your_email@domain.com)
 
 
 
