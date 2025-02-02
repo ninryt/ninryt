@@ -15,7 +15,7 @@ to automate data extraction and analysis.
 :handshake: **I’m looking to collaborate** on exciting **SQL, Python, or UX Research** projects to build innovative solutions.
 
 
-[![Contact Me Badge](https://img.shields.io/badge/Contact%20Me-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your_email@domain.com)
+[![Contact Me Badge](https://img.shields.io/badge/Contact%20Me-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:nbryttel@gmail.com)
 
 ---
 
