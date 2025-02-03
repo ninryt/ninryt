@@ -1,3 +1,12 @@
+![SQL Badge](https://img.shields.io/badge/SQL-FFD700) ![Python](https://img.shields.io/badge/Python-006400) ![Tableau Badge](https://img.shields.io/badge/DataVisualisation-8A2BE2) 
+![Tableau Badge](https://img.shields.io/badge/DataAnalysis-007ACC?style=flat-square) ![Research Badge](https://img.shields.io/badge/Research%20-FF0000?style=flat-square) ![UX Badge](https://img.shields.io/badge/UX-800000?style=flat-square) ![CX Badge](https://img.shields.io/badge/CX-660000?style=flat-square)
+
+
+
+
+
+
+
 ## Hi there 👋 
 
 My name is **Nina B.**, and I am a trained Data Scientist and Researcher from the University of Economics in Poland (Szczecin), currently leading the UX/CX Team (Research and Data Analysis) at FTI Group. 
