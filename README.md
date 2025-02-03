@@ -21,7 +21,7 @@ to automate data extraction and analysis.
 
 :books: **I am committed to continuous growth** — check out my latest professional recertification  — [here](./recertification.md).
 
-:handshake: **I’m looking to collaborate** on exciting **SQL, Python, or UX Research** projects to build innovative solutions.
+:handshake: **I’m looking to collaborate** on exciting **SQL, Python, or UX/CX/Research** projects to build innovative solutions.
 
 
 [![Contact Me Badge](https://img.shields.io/badge/Contact%20Me-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:nbryttel@gmail.com)
