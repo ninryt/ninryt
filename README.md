@@ -1,5 +1,6 @@
 ![SQL Badge](https://img.shields.io/badge/SQL-FFD700) ![Python](https://img.shields.io/badge/Python-006400) ![Tableau Badge](https://img.shields.io/badge/DataVisualisation-8A2BE2) 
-![Tableau Badge](https://img.shields.io/badge/DataAnalysis-007ACC?style=flat-square) ![Research Badge](https://img.shields.io/badge/Research%20-FF0000?style=flat-square) ![UX Badge](https://img.shields.io/badge/UX-800000?style=flat-square) ![CX Badge](https://img.shields.io/badge/CX-660000?style=flat-square)
+![Data](https://img.shields.io/badge/DataAnalysis-007ACC?style=flat-square) ![BI Badge](https://img.shields.io/badge/Business%20Intelligence-000080?style=flat-square) ![BI Performance Badge](https://img.shields.io/badge/Performance%20-008B8B?style=flat-square)
+ ![Research Badge](https://img.shields.io/badge/Research%20-FF0000?style=flat-square) ![UX Badge](https://img.shields.io/badge/UX-800000?style=flat-square) ![CX Badge](https://img.shields.io/badge/CX-660000?style=flat-square)
 
 
 
