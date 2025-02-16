@@ -1,7 +1,7 @@
 ##  🚀 I am committed to continuous growth — check out my latest professional certifications & recertification:
 
 
-🔹 **Google Advanced Data Analytics with Python** (2024)
+🔹 **Advanced Data Analytics with Python** (2024)
 
 🔹 **Microsoft Azure SQL** (2024)
 
