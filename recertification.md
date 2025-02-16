@@ -17,4 +17,9 @@
 
 🔹 **Postgraduate Studies in Graphic Design with the focus on UX/UI** (2019)
 
+🔹 **Programming Foundations with JavaScript, HTML and CSS** (2015)
+
+🔹 **UI/UX Product Design and Research** (2014)
+
+
 
