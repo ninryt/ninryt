@@ -13,7 +13,7 @@
 
 🔹 **Data Modeling in Power BI** (2022)
 
-🔹 **SQL Fundamentals for Data Analysts** (2021)
+🔹 **SQL for Data Analysts** (2021)
 
 🔹 **Postgraduate Studies in Graphic Design with the focus on UX/UI** (2019)
 
