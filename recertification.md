@@ -9,11 +9,11 @@
 
 🔹 **Data Visualization with Advanced Excel** (2022 + renewed 2024)
 
-🔹 **Advanced Data Visualisation with Tableau** (2023)
+🔹 **Advanced Data Visualisation with Tableau** (2022)
 
-🔹 **Data Modeling in Power BI** (2023)
+🔹 **Data Modeling in Power BI** (2022)
 
-🔹 **SQL Fundamentals for Data Analysts** (2022)
+🔹 **SQL Fundamentals for Data Analysts** (2021)
 
 🔹 **Postgraduate Studies in Graphic Design with the focus on UX/UI** (2019)
 
