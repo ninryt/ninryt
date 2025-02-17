@@ -17,12 +17,12 @@ I am passionate about combining data analysis using SQL, Python and analytical t
 to automate data extraction and analysis.
 
 :hammer_and_wrench: **I recently designed and developed**:  
+- **An BI Analytics Tool (User Behavior Tracking**, check it out [here](https://github.com/ninryt/mixpanel-tracker_wp)
 - **A Python project** that automates sending personalized emails via Gmail and Excel and migrates data to SQL database, check it out [here](https://github.com/ninryt/automated-email-sender)
-- **A comprehensive SQL database and program** that automatically scrapes personalized, most suitable job offers. check it out [here](https://github.com/ninryt/python-sql-web_jobscraper).
 
 :books: **I am committed to continuous growth** — check out my latest professional recertification  — [here](./recertification.md).
 
-:handshake: **I’m looking to collaborate** on exciting **SQL, Python, or UX/CX/Research** projects to build innovative solutions.
+:handshake: **I’m looking to collaborate** on exciting **Data/Performance Analysis or UX/CX/Research** projects to build innovative solutions.
 
 
 [![Contact Me Badge](https://img.shields.io/badge/Contact%20Me-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:nbryttel@gmail.com)
