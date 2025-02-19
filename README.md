@@ -13,11 +13,11 @@
 My name is **Nina B.**, and I am a trained Data Scientist and **Digital Product Researcher / Analyst** from the University of Economics in Poland (Szczecin), currently leading the Data Team at FTI Group. 
 I am passionate about combining data analysis using SQL, Python and analytical tools with User Research to leverage digital and non-digital products.
 
-:seedling: **I’m currently developing an AI-powered web-scraping model** using Python and machine learning
+:seedling: **I’m currently developing an AI-powered web-scraping model** using Python and maschine learning
 to automate data extraction and analysis.
 
 :hammer_and_wrench: **I recently designed and developed**:  
-- **An BI Analytics Tool (User Behavior Tracking**, check it out [here](https://github.com/ninryt/mixpanel-tracker_wp)
+- **An BI Analytics Tool (User Behavior Tracking)**, check it out [here](https://github.com/ninryt/mixpanel-tracker_wp)
 - **A Python project** that automates sending personalized emails via Gmail and Excel and migrates data to SQL database, check it out [here](https://github.com/ninryt/automated-email-sender)
 
 :books: **I am committed to continuous growth** — check out my latest professional recertification  — [here](./recertification.md).
